@@ -1,1 +1,1 @@
-user1 change
+combined change by user 1 and user 2
